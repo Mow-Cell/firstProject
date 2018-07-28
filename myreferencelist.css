@@ -1,0 +1,17 @@
+img {
+   padding: 20px;
+   border: 25px green solid ;
+   opacity: 0.75;
+   filter: alpha(opacity=75);
+   border-radius: 10px;
+   margin: 1px;
+   background-color:purple; }
+rect {
+float: left; }
+
+div.cpr {
+float: right; }
+
+body {
+    background-image: url("../Images/pakapori.jpg");
+    background-size: 100% 550px; }
