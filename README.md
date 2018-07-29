@@ -1,2 +1,0 @@
-# firstProject
-My first trial
